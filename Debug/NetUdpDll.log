@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  NetUdp.cpp
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(8): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“NET_UDPIPADD”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“BZLPoint”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(34): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“PlatformData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(42): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“MotorParaData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(53): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“LaserData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudp.cpp(24): warning C4101: “lp”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudp.cpp(80): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+  NetUdpDll.cpp
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(8): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“NET_UDPIPADD”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“BZLPoint”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(34): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“PlatformData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(42): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“MotorParaData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\heads.h(53): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“LaserData”的左侧
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.h(41): warning C4190: “Receivedata”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\afxstr.h(89): note: 参见“ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>”的声明
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(75): warning C4190: “Receivedata”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\afxstr.h(89): note: 参见“ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>”的声明
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(106): warning C4101: “data2”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(106): warning C4101: “data1”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(307): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(340): warning C4101: “data1”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(393): warning C4190: “GetMotorMark”有指定的 C 链接，但返回了与 C 不兼容的 UDT“CPoint”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\atltypes.h(74): note: 参见“CPoint”的声明
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(459): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(471): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(472): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(487): warning C4101: “i”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(485): warning C4101: “data1”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(523): warning C4101: “i”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(521): warning C4101: “data1”: 未引用的局部变量
+i:\运动控制\新隔离卡\最新版本\网络版\netudpdll 20190411\netudpdll\netudpdll.cpp(557): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+    正在创建库 I:\运动控制\新隔离卡\最新版本\网络版\NetUdpDll 20190411\Debug\NetUdpDll.lib 和对象 I:\运动控制\新隔离卡\最新版本\网络版\NetUdpDll 20190411\Debug\NetUdpDll.exp
+  NetUdpDll.vcxproj -> I:\运动控制\新隔离卡\最新版本\网络版\NetUdpDll 20190411\Debug\NetUdpDll.dll
